@@ -1,0 +1,19 @@
+Bland-Altman Analysis
+----------------------
+Bias (mean difference): -2.758
+Upper Limit of Agreement: 4.964
+Lower Limit of Agreement: -10.480
+
+
+T-Test for Systematic Bias
+---------------------------
+Mean difference: -2.758
+95% CI: [-3.396, -2.121]
+t = -8.546, p = 1.44e-14
+
+Interpretation:
+----------------
+Since the mean difference (bias) is negative, human raters are on average stricter than the AI.
+The average human rating is: 7.70.
+The average AI rating is: 10.46.
+This means that the human ratings are on average 2.76 points lower than the AI ratings.

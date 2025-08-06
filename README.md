@@ -28,3 +28,5 @@ Since the mean difference (bias) is negative, rater1 is on average stricter than
 The average rating for rater1 is: 7.70.
 The average rating for rater2 is: 10.46.
 This means that the ratings for rater1 are on average 2.76 points lower than the ratings of rater2.
+
+May your BAAs be high and your p-values low! 

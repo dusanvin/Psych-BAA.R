@@ -6,7 +6,7 @@ Psych-BAA.R is a R script that reads two sets of scores from a JSON file and ide
 The main program where the calculation takes place. Change ```INSERT-YOUR-FILE-HERE.JSON``` to the JSON file containing the ratings.
 ### INSERT-YOUR-FILE-HERE.JSON
 The sample JSON file containing ratings from ```human_rater``` and ```ai_rater```. Replace the ratings with your own.
-### ICC-output.txt
+### bland-altman-output.txt
 The text file that contains the calculations, e.g.,
 ```
 Bland-Altman Analysis
@@ -31,5 +31,7 @@ This means that the ratings for rater1 are on average 2.76 points lower than the
 ```
 
 May your BAAs be high and your p-values low! 
+
+
 
 
